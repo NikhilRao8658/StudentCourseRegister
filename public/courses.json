@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Hindi Language - Basics",
+      "description": "Learn basic reading, writing, and speaking skills in Hindi.",
+      "photo": "https://media.istockphoto.com/id/1044119946/photo/learn-hindi-education-and-business-background.jpg?s=612x612&w=0&k=20&c=JIAyCVuS5VGHQK58je0Tipyqwc96GE3TXnRsBgqDcJY=",
+      "price": 8000,
+      "courseOffering": 7000
+    },
+    {
+      "id": 2,
+      "name": "English Communication Skills",
+      "description": "Improve your verbal and written communication in English.",
+      "photo": "https://media.istockphoto.com/id/1329915354/photo/concept-of-speaking-foreign-international-language.jpg?s=612x612&w=0&k=20&c=M2ArM1FGuCO_abxTLW0lreFdc7OTcjuM33tgWow9o1g=",
+      "price": 15000,
+      "courseOffering": 10000
+    },
+    {
+      "id": 3,
+      "name": "Urdu for Beginners",
+      "description": "An introductory course to Urdu language and grammar.",
+      "photo": "https://media.istockphoto.com/id/2207302339/vector/learn-urdu-blue-grunge-speech-bubble-on-blank-background.jpg?s=612x612&w=0&k=20&c=Rpi-N6OASMQgm0KRmtLNLl1AITsAp8vVGEzpgk1vsfk=",
+      "price": 7000,
+      "courseOffering": 5000
+    },
+    {
+      "id": 4,
+      "name": "Group Hindi Speaking Practice",
+      "description": "Practice conversational Hindi with group activities and live sessions.",
+      "photo": "https://media.istockphoto.com/id/1294939946/photo/learn-hindi-language-online-e-learning-computer-laptop.jpg?s=612x612&w=0&k=20&c=0Rw-SLI0YFlr3xbeLfjesXykR032U8MvH9_bNKk4Quw=",
+      "price": 9000,
+      "courseOffering": 8000
+    },
+    {
+      "id": 5,
+      "name": "Spoken English - Group Workshop",
+      "description": "Interactive group-based English speaking sessions for all levels.",
+      "photo": "https://media.istockphoto.com/id/1329915354/photo/concept-of-speaking-foreign-international-language.jpg?s=612x612&w=0&k=20&c=M2ArM1FGuCO_abxTLW0lreFdc7OTcjuM33tgWow9o1g=",
+      "price": 7000,
+      "courseOffering": 6000
+    },
+    {
+      "id": 6,
+      "name": "Urdu Literature Introduction",
+      "description": "Explore famous Urdu texts, poetry, and grammar fundamentals.",
+      "photo": "https://media.istockphoto.com/id/2207302339/vector/learn-urdu-blue-grunge-speech-bubble-on-blank-background.jpg?s=612x612&w=0&k=20&c=Rpi-N6OASMQgm0KRmtLNLl1AITsAp8vVGEzpgk1vsfk=",
+      "price": 10000,
+      "courseOffering": 8000
+    },
+    {
+      "id": 7,
+      "name": "Special Course - Hindi for Tourists",
+      "description": "Essential Hindi phrases and cultural tips for travelers.",
+      "photo": "https://i.ytimg.com/vi/1lrz11BbqCA/maxresdefault.jpg",
+      "price": 9000,
+      "courseOffering": 6000
+    },
+    {
+      "id": 8,
+      "name": "Special Course - English for Interviews",
+      "description": "Focused training on English for job interviews and resumes.",
+      "photo": "https://media.istockphoto.com/id/1047570732/vector/english.jpg?s=612x612&w=0&k=20&c=zgafUJxCytevU-ZRlrZlTEpw3mLlS_HQTIOHLjaSPPM=",
+      "price": 10000,
+      "courseOffering": 7000
+    },
+    {
+      "id": 9,
+      "name": "Special Urdu Calligraphy Workshop",
+      "description": "Hands-on training in traditional and modern Urdu calligraphy.",
+      "photo": "https://i.ibb.co/BKtbpwf/Rectangle-2-6.png",
+      "price": 8000,
+      "courseOffering": 5000
+    }
+  ]
+  
